@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm I'm KEMMOUS Mohamed ,a software Engineering Student ,🚀 from Morroco.
+Hi, I'm I'm **KEMMOUS Mohamed** ,a **software Engineering Student** ,🚀 from **Morroco**.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -24,7 +24,7 @@ Hi, I'm I'm KEMMOUS Mohamed ,a software Engineering Student ,🚀 from Morroco.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something ;
+- 👨🏽‍💻 currently I'm working on getting my Bachelor of engineering.
 - 🌱 I’m currently learning Java;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Mohamed_kms80](www.instagram.com/mohamed_kms80);
