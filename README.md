@@ -19,8 +19,6 @@ Hi, I'm I'm **KEMMOUS Mohamed** ,a **software Engineering Student** ,🚀 from *
   
 <br />
 <br />
-<br />
-<br />
   
 **Talking about Personal Stuffs:**
 
