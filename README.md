@@ -26,10 +26,10 @@ Hi, I'm I'm **KEMMOUS Mohamed** ,a **software Engineering Student** ,🚀 from *
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 currently I'm working on getting my Bachelor of engineering.
-- 🌱 I’m currently learning Java;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Mohamed_kms80](https://www.instagram.com/mohamed_kms80);
-- 📝[Resume]()
+- 🌱 I’m currently learning Java.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: [@Mohamed_kms80](https://www.instagram.com/mohamed_kms80).
+- 📝[Resume](https://drive.google.com/file/d/12j9kG_xh2qJsny2NuvwX9bFcqLjK2MJ0/view?usp=sharing).
   <br />
   <br />
   **Languages and Tools:**
