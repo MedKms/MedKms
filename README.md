@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/mohamed-kemmous-2b8600194/">
   <img align="left" alt="MedKms" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/kemmous.mohamed/">
-  <img align="left" alt="MedKms" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 <a href="https://www.instagram.com/mohamed_kms80/">
   <img align="left" alt="MedKms" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />
 </a>
