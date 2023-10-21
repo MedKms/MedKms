@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/mohamed-kemmous-2b8600194/">
-  <img align="left" alt="MedKms" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="MedKms" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://www.instagram.com/mohamed_kms80/">
   <img align="left" alt="MedKms" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm I'm **KEMMOUS Mohamed** ,a **software Engineering Student** ,🚀 from **Morroco**.
+Hi, I'm I'm **KEMMOUS Mohamed** ,a **software Engineering** ,🚀 from **Morroco**.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -22,8 +22,7 @@ Hi, I'm I'm **KEMMOUS Mohamed** ,a **software Engineering Student** ,🚀 from *
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 currently I'm working on getting my Bachelor of engineering.
-- 🌱 I’m currently learning Java.
+- 👨🏽‍💻 currently I'm Full stack developer Java/Angular .
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [@Mohamed_kms80](https://www.instagram.com/mohamed_kms80).
 - 📝[Resume](https://drive.google.com/file/d/12j9kG_xh2qJsny2NuvwX9bFcqLjK2MJ0/view?usp=sharing).
