@@ -24,8 +24,7 @@ Hi, I'm I'm **KEMMOUS Mohamed** ,a **software Engineering** ,🚀 from **Morroco
 
 - 👨🏽‍💻 currently I'm Full stack developer Java/Angular .
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: [@Mohamed_kms80](https://www.instagram.com/mohamed_kms80).
-- 📝[Resume](https://drive.google.com/file/d/12j9kG_xh2qJsny2NuvwX9bFcqLjK2MJ0/view?usp=sharing).
+- 📫 How to reach me: [@Mohamed_kms80](https://www.instagram.com/mohamed_kms80)..
   <br />
   <br />
   **Languages and Tools:**
